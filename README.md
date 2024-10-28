@@ -1,6 +1,10 @@
 # odin-recipes
 A Basic Recipe Website
 
+## Live Demo
+
+![Live demo of recipe website](./img/demo/demo.gif)
+
 ## Description
 
 This project[^1] shows a basic recipe website which consists of a main index page with links to three recipes.
@@ -10,6 +14,14 @@ This project[^1] shows a basic recipe website which consists of a main index pag
 [^1]: This is the [first project](https://www.theodinproject.com/lessons/foundations-recipes) in the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations) of the [The Odin Project](https://www.theodinproject.com/about).
 
 [^2]: There is no point to work more on this project because the [TOP strategy guide](https://dev.to/theodinproject/learning-code-f56) highlights that projects in the [foundations aren't a strong portfolio generator](https://dev.to/theodinproject/learning-code-f56#:~:text=Foundations%20isn%E2%80%99t%20a%20strong%20portfolio%20generator) and [only the capstone might be worth spending extra time on](https://dev.to/theodinproject/learning-code-f56#:~:text=Always%20spend%20extra%20time%20on%20capstone%20projects).
+
+## Screenshots
+
+![Screenshot of index page](./img/screenshots/index-page.png)
+
+![Screenshot of recipe page (part 1)](./img/screenshots/recipe-page-part1.png)
+
+![Screenshot of recipe page (part 2)](./img/screenshots/recipe-page-part2.png)
 
 ## Technologies
 
